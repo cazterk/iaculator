@@ -1,2 +1,2 @@
-# iaculator
-2d top-down shooter game
+# Iaculator
+upcoming 2d top-down shooter game🔫🔫🔫
